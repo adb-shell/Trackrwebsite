@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: Trackr
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -60,7 +60,7 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "contact.html"
+      path: "release/download.html"
     values:
       full_width: true
 
