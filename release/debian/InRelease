@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Components: main
+Date: Sat, 22 Apr 2023 01:36:28 GMT
+Description: Public archive for Trackr
+Origin: Trackr
+Suite: debian
+MD5Sum:
+ 792120cd236cb10b88e2906292538efd               558 Packages
+ ef2e823a9e7af5656873fe25cf2aea98               456 Packages.xz
+SHA1:
+ 6e05467543ff919467ca09a30754e63cc6f6f1d3               558 Packages
+ e1beac58384b1d0a0fca6ce7370a67e811456db8               456 Packages.xz
+SHA256:
+ 937236e9d6ac2556525d7aa3abc19527c32459543a45e12fff2bc4d4d231ce77               558 Packages
+ 3d00865ebda973d08bd0f1776182a578f90b1be44f9633122618efb7301484af               456 Packages.xz
+SHA512:
+ 40ee3f2a79a1f3d38e190617f6a86a21d586a7706a9bb3cf0e0d7929781a79240278cb0db333b0e1243bbb56f18d3ea6961a48fef89ae382a0a6ab6f0a7d11bf               558 Packages
+ 1ed7fb2755227f830a597a3a85d8b46ed957abce819b1a16be7b5dff13c8eb5dac07243565e6760165d2802bb70497efcdfee85e792961d0cede0e7194cb022f               456 Packages.xz
+-----BEGIN PGP SIGNATURE-----
+Version: BCPG v1.72.2
+
+iF4EARMIAAYFAmRDOhwACgkQNn+ZnI73ptOypAD/byWg88HqLKGH0FDFuEn0dkB3
+acA06Z1sFrGo/L3Nh4EA/ilHWH3Iut3EmtWeCg1nfR0cssj2B5LQyHtbtfsSnJ9U
+=a9Vp
+-----END PGP SIGNATURE-----
