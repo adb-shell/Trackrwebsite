@@ -2,13 +2,13 @@ Architecture: amd64
 Built-With: Hydraulic Conveyor
 Depends: libxi6, zlib1g, libasound2 | liboss4-salsa-asound2, libx11-6, libgcc-s1, libxext6, libc6, libfreetype6, libxtst6, libxrender1, libstdc++6
 Description: Time trackr app for productivity nerds
-Installed-Size: 92013
+Installed-Size: 93005
 Maintainer: CraftsMen <nobody@nowhere>
 Package: craftsmen-desktopapp
 Priority: optional
 Provides: craftsmen-desktopapp
 Section: misc
-Version: 1.0
-Filename: debian/craftsmen-desktopapp_1.0_amd64.deb
-Size: 38352960
-SHA256: 7c5bcaeab8434b607ac12b7030519f59b669d9a9c181e6e6972d85156587bba1
+Version: 1.1
+Filename: debian/craftsmen-desktopapp_1.1_amd64.deb
+Size: 38762268
+SHA256: 5785ba665ef7344be2e463643164ba7f46f486614fefe45cecf8b968d61680f8
