@@ -11,11 +11,11 @@
             <description>
                 <![CDATA[ New release: version 1.1.0 ]]>
             </description>
-            <pubDate>Sat, 27 May 2023 02:46:58 GMT</pubDate>
+            <pubDate>Sun, 28 May 2023 10:40:07 GMT</pubDate>
             <enclosure url="https://daytrackr.com/release/desktopapp-1.1-mac-amd64.zip" 
-                       length="56714674" 
+                       length="56735817" 
                        type="application/octet-stream" 
-                       sparkle:edSignature="PeWhB6TmCEy/Kl8VQAADjMSo+WeF4VJoba+cBQw7cfTBey9c/1GKZOEymMSf6LdUjvhWTSNilkyZExKg4GosCQ=="/>
+                       sparkle:edSignature="bDOzA6LlFkOZTSkGY1nGxUAIMrX+I9ECmn6FCQDcp86wrtMQfzlzeqp/T+mAdH2rVPD8Q6n4P5XCiAza5O0NDg=="/>
         </item>
             
     </channel>
