@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2018" Version="1.1.0.0" Uri="https://daytrackr.com/release/desktopapp.appinstaller">
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2018" Version="1.2.0.0" Uri="https://daytrackr.com/release/desktopapp.appinstaller">
     <MainPackage
             Name="Desktopapp"
             Publisher="CN=Trackr"
-            Version="1.1.0.0"
+            Version="1.2.0.0"
             ProcessorArchitecture="x64"
-            Uri="https://daytrackr.com/release/desktopapp-1.1.x64.msix" />
+            Uri="https://daytrackr.com/release/desktopapp-1.2.x64.msix" />
     
 
     <UpdateSettings>
