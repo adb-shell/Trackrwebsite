@@ -5,17 +5,17 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.2.0</title>
+            <title>Version 1.3.0</title>
             <link>https://daytrackr.com/release/</link>
-            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:version>1.3.0</sparkle:version>
             <description>
-                <![CDATA[ New release: version 1.2.0 ]]>
+                <![CDATA[ New release: version 1.3.0 ]]>
             </description>
-            <pubDate>Wed, 31 May 2023 14:48:57 GMT</pubDate>
-            <enclosure url="https://daytrackr.com/release/desktopapp-1.2-mac-aarch64.zip" 
-                       length="54993030" 
+            <pubDate>Thu, 22 Jun 2023 15:50:13 GMT</pubDate>
+            <enclosure url="https://daytrackr.com/release/desktopapp-1.3-mac-aarch64.zip" 
+                       length="54511381" 
                        type="application/octet-stream" 
-                       sparkle:edSignature="Ng9AqrkBqEqAya4BhZXMFrBBLfRaY/d1SrA+Z8Ky1YQtnZhRgLv8JRXtEugzRS+9iKax853KeKPQjJj9v4ipCg=="/>
+                       sparkle:edSignature="kcxNpflklmEKuAAiNyT5tS8DyX9p3oxnMFmUwH5WOB1NcxV9oe8bywi/15ZBd9LhbktrPDshLl7aLKWUu+iWDQ=="/>
         </item>
             
     </channel>
