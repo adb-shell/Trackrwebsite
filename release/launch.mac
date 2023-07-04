@@ -6,8 +6,8 @@
 
 set -e
 
-mac_amd64_zip_url="https://daytrackr.com/release/desktopapp-1.3-mac-amd64.zip"
-mac_aarch64_zip_url="https://daytrackr.com/release/desktopapp-1.3-mac-aarch64.zip"
+mac_amd64_zip_url="https://daytrackr.com/release/desktopapp-1.4-mac-amd64.zip"
+mac_aarch64_zip_url="https://daytrackr.com/release/desktopapp-1.4-mac-aarch64.zip"
 app_name="Trackr"
 
 arch=$( arch )
