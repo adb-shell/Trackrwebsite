@@ -140,15 +140,15 @@
             if (platform == "Windows") {
                 window.location.href = "./release/windows-release.zip";
             } else if (platform == "macOS") {
-                if(arch=="amd64"){
-                  window.location.href = "./release/desktopapp-amd64.zip";
-                }else{
+                if(arch=="arm"){
                   window.location.href = "./release/desktopapp-aarch64.zip";
+                }else{
+                  window.location.href = "./release/desktopapp-amd64.zip";
                 }
             } else if (platform == "Linux") {
                 window.location.href = "./release/desktopapp-linux-amd64.tar.gz";
             }else {
-                
+
             }
        })
     }
