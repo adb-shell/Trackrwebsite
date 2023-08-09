@@ -1,0 +1,4 @@
+desktopapp-linux-amd64.tar.gz filter=lfs diff=lfs merge=lfs -text
+desktopapp-aarch64.zip filter=lfs diff=lfs merge=lfs -text
+desktopapp-amd64.zip filter=lfs diff=lfs merge=lfs -text
+windows-release.zip filter=lfs diff=lfs merge=lfs -text
