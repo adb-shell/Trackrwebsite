@@ -155,6 +155,21 @@
   }
 </script>
 
+<script type="text/javascript">
+    window.onload = function() {
+        const browserURL = window.location.href
+        if(browserURL.includes("code")){
+          const url = new URL(browserURL);
+          const params = new URLSearchParams(url.search);
+          const code = encodeURIComponent(params.get('code'));
+          const redirectionUrl = "taskunk://code="+code
+          window.location.href = redirectionUrl;
+        }
+    };
+</script>
+
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q3B8KDRJ8Y"></script>
 <script>
